@@ -19,7 +19,7 @@ public class Exercise9 {
                         for (int j = 1; j <= i; j++) {
                             System.out.print("*");
                         }
-                        System.out.println(); // Move to next line
+                        System.out.println();
                     }
                 }
 
