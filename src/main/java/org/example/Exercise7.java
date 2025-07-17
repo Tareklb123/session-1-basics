@@ -15,7 +15,7 @@ public class Exercise7 {
 
         for (int i = 0; i < numbers.length; i++) {
             System.out.print("Number " + (i + 1) + ": ");
-            numbers[i] = Scanner.nextInt();
+            numbers[i] = scar.nextInt();
         }
 
         int sam = 0;
