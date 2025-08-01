@@ -9,7 +9,7 @@ public class Exercise7 {
     public static void main(String[] args) {
         Scanner scar = new Scanner(System.in);
         int[] numbers = new int[5];
-
+        // good job
         System.out.println("Java Syntax Exercises");
         System.out.println("Enter 5 numbers:");
 

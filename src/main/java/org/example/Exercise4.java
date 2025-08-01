@@ -7,6 +7,8 @@ public class Exercise4 {
     public static void main(String[] args) {
         System.out.println("//////GAME GUESS THE NUMBER.//////");
 
+            // good job, now you know how the while loop works and used both of loops and conditional statements.
+
 
         Random random = new Random();
         Scanner scanner = new Scanner(System.in);
@@ -31,4 +33,6 @@ public class Exercise4 {
             }
         }
         scanner.close();
+
+        // what if the user enters a letter? handle it
     }}

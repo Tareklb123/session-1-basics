@@ -6,6 +6,8 @@ public class Exercise3 {
     public static void main(String[] args) {
         //exo3
 
+        // now you know how to use if/else if/ else, know that there's a differene between else and else if, search about it.
+
 
         System.out.println("give me your grade: ");
         Scanner scan = new Scanner(System.in);
@@ -21,6 +23,8 @@ public class Exercise3 {
         } else {
             System.out.println("Your grade is F");
         }
+
+        // what if the user inserts an invalid number by mistake or a letter? try it and see what happens, handle it.
 
 
     }

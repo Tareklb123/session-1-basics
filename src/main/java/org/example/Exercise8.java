@@ -9,10 +9,12 @@ public class Exercise8 {
                 return (celsius * 9 / 5) + 32;
             }
 
+            // good job, when the programm finishes i have to run it again so i can choose again, i want it to rerun, handle that.
             public static double fahrenheitToCelsius(double fahrenheit) {
                 return (fahrenheit - 32) * 5 / 9;
             }
             public static void displayMenu() {
+
                 System.out.println("Temperature Converter");
                 System.out.println("1. Celsius to Fahrenheit");
                 System.out.println("2. Fahrenheit to Celsius");

@@ -6,6 +6,9 @@ import java.util.Scanner;
 
 public class Exercise2 {
     //exo2
+
+    // good job, loggin the answers in the console will teach how to log data and output, it's a really important skill in debugging.
+
     public static void main(String[] args) {
 
         System.out.println("give me 2 number");

@@ -8,6 +8,8 @@ public class Exercise5 {
         int choice;
         final double PI = 3.14159;
 
+        // good job, a switch statement is very important, make sure to master it well.
+
         do {
             // Display the menu
             System.out.println("\nJava Syntax Exercises");
@@ -35,6 +37,8 @@ public class Exercise5 {
                     System.out.println("Area of circle: " + Circle);
                     break;
 
+                    // can you explain why when option 1 and 2 ends the program asks again to choose from the menu, but when you exit it doesn't?
+                    // what if the user inserts a letter by mistake? handle it.
                 case 3:
                     System.out.println("'/'/'/'/Goodbye'/'/'/'/");
                     break;

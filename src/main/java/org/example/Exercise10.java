@@ -7,13 +7,16 @@ public class Exercise10 {
 
 
 
+        // good job so far, code well-structured, good naming of variables.
+        // i want you to redo this program, i want you to print the vowels it found.
 
                 Scanner scanner = new Scanner(System.in);
 
                 System.out.print("Enter a sentence: ");
                 String sentence = scanner.nextLine();
 
-                String[] words = sentence.trim().split("\\s+");
+                String[] words = sentence.trim().split("\\s+"); // can you explain what you did here?
+
                 int wordCount = words.length;
 
                 int vowelCount = 0;

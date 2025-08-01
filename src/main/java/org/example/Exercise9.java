@@ -6,6 +6,7 @@ public class Exercise9 {
     public static void main(String[] args) {
 
 
+        // good job, try to redo this code and understand what's happening.
 
                 Scanner scanner = new Scanner(System.in);
 
