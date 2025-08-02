@@ -6,6 +6,7 @@ public class Exercise6 {
     public static void main(String[] args) {
         Scanner scanner2 = new Scanner(System.in);
         System.out.print("Enter a sentence: ");
+        
         String sentence = scanner2.nextLine();
 
         int length = sentence.length();
