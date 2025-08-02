@@ -18,7 +18,6 @@ public class Exercise6 {
 
         boolean contains = lowerCase.contains("java");
 
-        // Display results
         System.out.println("Length: " + length);
         System.out.println("First character: " + firstChar);
         System.out.println("Last character: " + lastChar);
